@@ -2,7 +2,7 @@
 - 👀 I’m interested in python programming
 - 🌱 I’m currently learning b tech in electronics and communication
 - 💞️ I’m looking to collaborate on github
-- 📫 How to reach me is by texting a hi message through my gmail 
+- 📫 How to reach me is by texting a hi message to my mail
 
 <!---
 Raja-s-k/Raja-s-k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
