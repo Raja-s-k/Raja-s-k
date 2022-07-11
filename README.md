@@ -34,8 +34,3 @@ Pycharm                  2 hrs 28 mins       ███░░░░░░░░�
 Windows                  17 hrs 5 mins       ██████████████░░░░░░░░░░░   60.00% 
 Ubuntu                   6 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   40.00% 
 ```
-
-<!---
-Raja-s-k/Raja-s-k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
