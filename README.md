@@ -14,6 +14,7 @@
 
 [![Raja's github stats](https://github-readme-stats.vercel.app/api?username=Raja-s-k&show_icons=true&theme=dracula&hide=["contribs","issues"])](https://github.com/Raja-s-k)
 
+<br/>
 
 📊 **This week I spent my time on** 
 
