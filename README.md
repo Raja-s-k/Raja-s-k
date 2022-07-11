@@ -5,6 +5,9 @@
 - 📫 How to reach me is by texting a hi message to my mail
 
 
+[![Naveen's github stats](https://github-readme-stats.vercel.app/api?username=naveenverma1&show_icons=true&theme=merko&hide=["contribs","issues"])](https://github.com/naveenverma1)
+
+
 
 📊 **This week I spent my time on** 
 
