@@ -1,4 +1,7 @@
 -  👋 Hi, I’m @Raja-s-k
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,I am 
+![1](https://github.com/VedantKhairnar/VedantKhairnar/blob/master/assets/name.gif)
+
 - 👀 I’m interested in python programming
 - 🌱 I’m currently learning b tech in electronics and communication
 - 💞️ I’m looking to collaborate on github
