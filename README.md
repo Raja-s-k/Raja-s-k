@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Raja-s-k
-- 
-<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
+<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="100"/>
 
+-  👋 Hi, I’m @Raja-s-k
 - 👀 I’m interested in python programming
 - 🌱 I’m currently learning b tech in electronics and communication
 - 💞️ I’m looking to collaborate on github
