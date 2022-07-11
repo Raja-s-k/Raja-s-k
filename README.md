@@ -34,3 +34,6 @@ Pycharm                  2 hrs 28 mins       ███░░░░░░░░�
 Windows                  17 hrs 5 mins       ██████████████░░░░░░░░░░░   60.00% 
 Ubuntu                   6 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   40.00% 
 ```
+
+[<img align="left" alt="bilgehangecici | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />][linkedin]
+[linkedin]: [https://www.linkedin.com/in/raja-sk-93a829223/]
