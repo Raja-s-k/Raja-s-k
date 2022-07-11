@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me is by texting a hi message to my mail
 
-
-[![Raja's github stats](https://github-readme-stats.vercel.app/api?username=Raja-s-k&show_icons=true&theme=merko&hide=["contribs","issues"])](https://github.com/Raja-s-k)
+ 
+                           [![Raja's github stats](https://github-readme-stats.vercel.app/api?username=Raja-s-k&show_icons=true&theme=merko&hide=["contribs","issues"])](https://github.com/Raja-s-k)
 
 
 
