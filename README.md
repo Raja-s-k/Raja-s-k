@@ -9,7 +9,7 @@
 📊 **This week I spent my time on** 
 
 ```text
-⌚︎ Timezone: Asia/Calcutta
+⌚︎ Timezone: Asia/Kerala
 
 💬 Languages: 
 C                        6 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   39.01% 
