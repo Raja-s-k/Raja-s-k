@@ -3,11 +3,11 @@
 
 <br/>
 
--  👋 Hi, I’m @Raja-s-k
-- 👀 I’m interested in python programming
-- 🌱 I’m currently learning b tech in electronics and communication
-- 💞️ I’m looking to collaborate on github
-- 📫 How to reach me is by texting a hi message to my mail
+- 👋 Hi, I’m @Raja-s-k.
+- 👀 I’m interested in python programming and to play CTF challenges.
+- 🌱 I am currently pursuing my B tech in Electronics and Communication degree higher from Amrita University.
+- 💞️ I’m looking to collaborate on github.
+- 📫 U can reach me by texting me in Linkedin or Mail.
 
 <br/>
 <br/>
